@@ -51,7 +51,8 @@ Simulation results include waveform outputs and verification of correct system b
 
 ### Testbench: 
 
-❖ Open ```tb_card_verifier.vhd``` file: 
+❖ Open ```tb_card_verifier.vhd``` file:
+
 &nbsp;&nbsp;&nbsp;&nbsp;➢ Enter your number equal to Credit Card number variable 
 
 ### Analyzing code and wave observation:
